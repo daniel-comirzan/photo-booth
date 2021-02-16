@@ -1,0 +1,7 @@
+account_id = "842229033740"
+customer   = "tst"
+env        = "d"
+owner      = "devops"
+product    = "web"
+region     = "eu-west-1"
+vpc_cidr   = "10.0.0.0/22"
